@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#imgNav {
+    width: 150px;
+}
+
+body {
+    background-color: cadetblue;
+}
