@@ -7,8 +7,6 @@ function eventListener() {
     document.getElementById('btnFavor').addEventListener('click', contarVotosFavor);
     document.getElementById('btnContra').addEventListener('click', contarVotosContra);
     document.getElementById('btnAbstencion').addEventListener('click', contarVotosAbstencion);
-    document.getElementById('btnEliminar').addEventListener('click', removeChi)
-
 }
 
 eventListener();
